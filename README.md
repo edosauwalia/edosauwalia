@@ -1,4 +1,5 @@
-# Name: Edosa Uwalia
+# Personal Details
+Name: Edosa Uwalia
 Email: edosauwalia@yahoo.com
 Slack Username: edosauwalia
 Tracks: Frontend, Backend, Design, Mobile
